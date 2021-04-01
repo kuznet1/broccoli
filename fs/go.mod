@@ -1,4 +1,4 @@
-module aletheia.icu/broccoli/fs
+module github.com/kuznet1/broccoli/fs
 
 go 1.13
 
